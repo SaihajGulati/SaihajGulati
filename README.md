@@ -1,6 +1,6 @@
 👋 Hey, I'm Saihaj - @SaihajGulati
 
-  - 🌱 I have s a passion for connecting people through emerging technologies.
+  - 🌱 I have a passion for connecting people through emerging technologies.
   - 👀 I’m looking for software projects that can have a direct impact on people and customers.
   - ✨ Below you can find some of the software development and programming experiences I am most proud of. Some of my projects are private because of academic and institutional protection, but feel to free to reach out! I'd love to chat about or even demo these.
 
