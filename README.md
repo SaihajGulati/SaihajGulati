@@ -7,7 +7,7 @@
   
 - 📫 How to reach me: saihaj.gulati@gmail.com
 - ⚡  Linkedin: www.linkedin.com/in/saihaj-gulati
-- 💼 Portfolio: saihajgulati.com
+- 💼 Portfolio: saihajgulati.com/
 
 <!---
 - 🤔 I’m looking for help with ...
