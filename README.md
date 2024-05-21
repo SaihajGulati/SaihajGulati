@@ -1,8 +1,8 @@
 👋 Hey, I'm Saihaj - @SaihajGulati
 
   - 🌱 I have a passion for connecting people through innovative tech.
-  - 👀 I’m looking for software projects that have a direct impact on people and customers.
-  - ✨ Below you can find some of the software development and programming experiences I am most proud of. Some of my projects are private because of academic and institutional protection, but feel to free to reach out! I'd love to chat about or even demo these.
+  - 👀 I’m looking for software and machine learning opportunities that have a direct impact on people and customers.
+  - ✨ Below you can find some of the software and machine learning projects I am most proud of. Some of my projects are private because of academic and institutional protection, but feel to free to reach out! I'd love to chat about or even possibly demo these.
 
   
 - 📫 How to reach me: saihaj.gulati@gmail.com
